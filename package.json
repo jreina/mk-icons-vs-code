@@ -17,5 +17,9 @@
         "path": "./themes/MK-icons-color-theme.json"
       }
     ]
+  },
+  "publisher": "JohnnyReina",
+  "repository": {
+    "url": "https://github.com/jreina/mk-icons-vs-code"
   }
 }
