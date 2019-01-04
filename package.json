@@ -1,0 +1,21 @@
+{
+  "name": "MK",
+  "displayName": "MK Icons",
+  "description": "MK icons for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-mk",
+        "label": "MK icons",
+        "path": "./themes/MK-icons-color-theme.json"
+      }
+    ]
+  }
+}

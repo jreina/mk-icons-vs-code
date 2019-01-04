@@ -1,0 +1,70 @@
+{
+  "name": "MK-icons",
+  "type": "dark",
+  "iconDefinitions": {
+    "_baraka": {
+      "iconPath": "./images/baraka.png"
+    },
+    "_cyrax": {
+      "iconPath": "./images/cyrax.png"
+    },
+    "_goro": {
+      "iconPath": "./images/goro.png"
+    },
+    "_cage": {
+      "iconPath": "./images/johnnycage.png"
+    },
+    "_kang": {
+      "iconPath": "./images/liukang.png"
+    },
+    "_raiden": {
+      "iconPath": "./images/mk1raiden.png"
+    },
+    "_raiden2": {
+      "iconPath": "./images/raiden.png"
+    },
+    "_motaro": {
+      "iconPath": "./images/motaro.png"
+    },
+    "_scorpion": {
+      "iconPath": "./images/scorpion.png"
+    },
+    "_sektor": {
+      "iconPath": "./images/sektor.png"
+    },
+    "_sonya": {
+      "iconPath": "./images/sonya.png"
+    },
+    "_subzero": {
+      "iconPath": "./images/subzero.png"
+    },
+    "_wat": {
+      "iconPath": "./images/hidden.png"
+    }
+  },
+  "languageIds": {
+    // icons by language id
+    "css": "_cyrax",
+    "less": "_cyrax",
+    "scss": "_cyrax",
+    "sass": "_cyrax",
+    "javascript": "_scorpion",
+    "html": "_sektor",
+    "csharp": "_sonya",
+    "fsharp": "_sonya",
+    "rust": "_kang",
+    "r": "_kang",
+    "latex": "_kang",
+    "markdown": "_goro",
+    "typescript": "_subzero",
+    "javascriptreact": "_subzero",
+    "typescriptreact": "_subzero",
+    "json": "_cage",
+    "yaml": "_cage"
+  },
+  "folderExpanded": "_raiden",
+  "folder": "_raiden2",
+  "file": "_wat",
+  "rootFolderExpanded": "_raiden",
+  "rootFolder": "_raiden2"
+}
