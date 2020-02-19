@@ -38,6 +38,9 @@
     "_subzero": {
       "iconPath": "./images/subzero.png"
     },
+    "_rain": {
+      "iconPath": "./images/rain.png"
+    },
     "_wat": {
       "iconPath": "./images/hidden.png"
     }
@@ -59,6 +62,7 @@
     "typescript": "_subzero",
     "javascriptreact": "_subzero",
     "typescriptreact": "_subzero",
+    "php": "_rain",
     "json": "_cage",
     "yaml": "_cage"
   },
