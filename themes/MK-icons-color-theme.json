@@ -41,6 +41,9 @@
     "_rain": {
       "iconPath": "./images/rain.png"
     },
+    "_sindel": {
+      "iconPath": "./images/sindel.png"
+    },
     "_wat": {
       "iconPath": "./images/hidden.png"
     }
@@ -70,5 +73,8 @@
   "folder": "_raiden2",
   "file": "_wat",
   "rootFolderExpanded": "_raiden",
+  "fileExtensions": {
+    "mp3": "_sindel"
+  },
   "rootFolder": "_raiden2"
 }
