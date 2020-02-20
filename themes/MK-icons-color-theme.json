@@ -17,6 +17,9 @@
     "_kang": {
       "iconPath": "./images/liukang.png"
     },
+    "_kenshi": {
+      "iconPath": "./images/kenshi.png"
+    },
     "_raiden": {
       "iconPath": "./images/mk1raiden.png"
     },
@@ -32,6 +35,9 @@
     "_sektor": {
       "iconPath": "./images/sektor.png"
     },
+    "_smoke": {
+      "iconPath": "./images/smoke.png"
+    },
     "_sonya": {
       "iconPath": "./images/sonya.png"
     },
@@ -40,6 +46,9 @@
     },
     "_rain": {
       "iconPath": "./images/rain.png"
+    },
+    "_reptile": {
+      "iconPath": "./images/reptile.png"
     },
     "_sindel": {
       "iconPath": "./images/sindel.png"
@@ -67,13 +76,16 @@
     "typescriptreact": "_subzero",
     "php": "_rain",
     "json": "_cage",
-    "yaml": "_cage"
+    "yaml": "_cage",
+    "python": "_reptile",
+    "vue": "_kenshi",
   },
   "folderExpanded": "_raiden",
   "folder": "_raiden2",
   "file": "_wat",
   "fileExtensions": {
-    "mp3": "_sindel"
+    "mp3": "_sindel",
+    "sh": "_smoke",
   },
   "rootFolderExpanded": "_raiden",
   "rootFolder": "_raiden2"
