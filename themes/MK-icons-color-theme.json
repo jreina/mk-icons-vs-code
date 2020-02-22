@@ -35,6 +35,9 @@
     "_sektor": {
       "iconPath": "./images/sektor.png"
     },
+    "_shinnok": {
+      "iconPath": "./images/shinnok.png"
+    },
     "_smoke": {
       "iconPath": "./images/smoke.png"
     },
@@ -75,6 +78,7 @@
     "javascriptreact": "_subzero",
     "typescriptreact": "_subzero",
     "php": "_rain",
+    "java": "_shinnok",
     "json": "_cage",
     "yaml": "_cage",
     "python": "_reptile",
