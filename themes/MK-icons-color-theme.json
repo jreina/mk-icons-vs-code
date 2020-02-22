@@ -29,11 +29,17 @@
     "_motaro": {
       "iconPath": "./images/motaro.png"
     },
+    "_nightwolf": {
+      "iconPath": "./images/nightwolf.png"
+    },
     "_scorpion": {
       "iconPath": "./images/scorpion.png"
     },
     "_sektor": {
       "iconPath": "./images/sektor.png"
+    },
+    "_shinnok": {
+      "iconPath": "./images/shinnok.png"
     },
     "_smoke": {
       "iconPath": "./images/smoke.png"
@@ -75,8 +81,10 @@
     "javascriptreact": "_subzero",
     "typescriptreact": "_subzero",
     "php": "_rain",
+    "java": "_shinnok",
     "json": "_cage",
     "yaml": "_cage",
+    "swift": "_nightwolf",
     "python": "_reptile",
     "vue": "_kenshi",
   },
