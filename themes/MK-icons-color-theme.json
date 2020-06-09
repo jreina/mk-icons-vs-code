@@ -17,6 +17,9 @@
     "_kang": {
       "iconPath": "./images/liukang.png"
     },
+    "_kenshi": {
+      "iconPath": "./images/kenshi.png"
+    },
     "_raiden": {
       "iconPath": "./images/mk1raiden.png"
     },
@@ -26,17 +29,35 @@
     "_motaro": {
       "iconPath": "./images/motaro.png"
     },
+    "_nightwolf": {
+      "iconPath": "./images/nightwolf.png"
+    },
     "_scorpion": {
       "iconPath": "./images/scorpion.png"
     },
     "_sektor": {
       "iconPath": "./images/sektor.png"
     },
+    "_shinnok": {
+      "iconPath": "./images/shinnok.png"
+    },
+    "_smoke": {
+      "iconPath": "./images/smoke.png"
+    },
     "_sonya": {
       "iconPath": "./images/sonya.png"
     },
     "_subzero": {
       "iconPath": "./images/subzero.png"
+    },
+    "_rain": {
+      "iconPath": "./images/rain.png"
+    },
+    "_reptile": {
+      "iconPath": "./images/reptile.png"
+    },
+    "_sindel": {
+      "iconPath": "./images/sindel.png"
     },
     "_wat": {
       "iconPath": "./images/hidden.png"
@@ -59,12 +80,21 @@
     "typescript": "_subzero",
     "javascriptreact": "_subzero",
     "typescriptreact": "_subzero",
+    "php": "_rain",
+    "java": "_shinnok",
     "json": "_cage",
-    "yaml": "_cage"
+    "yaml": "_cage",
+    "swift": "_nightwolf",
+    "python": "_reptile",
+    "vue": "_kenshi",
   },
   "folderExpanded": "_raiden",
   "folder": "_raiden2",
   "file": "_wat",
+  "fileExtensions": {
+    "mp3": "_sindel",
+    "sh": "_smoke",
+  },
   "rootFolderExpanded": "_raiden",
   "rootFolder": "_raiden2"
 }
