@@ -2,7 +2,7 @@
   "name": "MK",
   "displayName": "MK Icons",
   "description": "MK icons for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.30.0"
   },
